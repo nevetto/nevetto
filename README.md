@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Adeola💖
 
 <!--
 **nevetto/nevetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/javascript.png" alt="javascript" height="40" style="vertical-align:top; margin:4px"> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevetto&show_icons=true&theme=tokyonight) 
  <br>
